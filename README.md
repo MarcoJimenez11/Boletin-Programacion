@@ -1,3 +1,4 @@
-# Boletin-Programacion
+# Boletin-Programacion 1 Trimestre
 
-Boletín de programación en Java 1ºDam Marco Jiménez Ureña
+Marco Jiménez Ureña
+Boletín de programación en Java 1ºDam 1 trimestre 
